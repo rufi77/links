@@ -1,6 +1,6 @@
 ---
-title : "Link collection for biostatistics resources, and beyond"
-author: "Methods, Collaboration, and Outreach Group (MCO)"
+title : "Link collection"
+author: "KR"
 date: "2020-10-23"
 output: 
   html_document:
@@ -16,181 +16,65 @@ output:
     toc_depth: 2
 ---
 
-# Purpose
 
-This document collects links useful for biostatisticians. The shortlink to this page is [go.roche.com/biostatlinks](http://go.roche.com/biostatlinks).
+# Finance
 
-This page is availabe [here](https://github.roche.com/rufiback/biostatlinks.git) on Roche-internal github.
+* [UBS login](https://ebanking-ch2.ubs.com/workbench/WorkbenchOpenAction.do?login&)
 
-If you'd like a link to be added please send it to an MCO member.
+* [WIR Bank](https://wwwsec.wir.ch/authen/login)
 
-<!-- ============================================== -->
+* [REKA](https://idp.reka.ch/login/sls/idplogin)
 
-# Groups and guidelines
+# Sport
 
-## LSPC
+* [Kaspar running](https://rufi77.github.io/running/)
 
-* [China Development Guideline](https://sites.google.com/roche.com/china-development-guideline-v3/documents)
+* [BC Innertkirchen](https://www.bcinnertkirchen.ch/)
 
-## RAAN
+* [Strava](https://www.strava.com/dashboard)
 
-[RAAN data science team landscape](https://sites.google.com/gene.com/raan-dstl/data-science-team-landscape)
+# Musik
 
-## PD Biometrics
+* [Metalgigs](https://metalgigs.ch/konzerte)
 
-* [PD biometrics](https://sites.google.com/roche.com/pd-biometrics/home)
+* [Encyclopaedia](https://www.metal-archives.com/)
 
-* [Biometrics global process library (BGPL)](http://na3.collaboration.roche.com/team/20124276/SitePages/Default.aspx)
+# Job
 
-* [Biometrics Evolution Roadmap](https://pd.roche.com/pd/post/biometrics-evolutionary-journey-whats-coming-next/)
+* [Clinical biostatistics at Roche](https://numbersman77.github.io/pharma/pharma.html)
 
-## PD Biostatistics
+* [Datamethods](https://discourse.datamethods.org/t/welcome-to-datamethods/8)
 
-* [Global PDB Biostatistics Site](https://sites.google.com/roche.com/pd-biometrics/departments/biostatistics)
+# Tools
 
-* [Global PDB Biostatistics Site (old)](http://na2.collaboration.roche.com/team/20123674/SitePages/Default.aspx)
+* [PDF editor](https://pdfbob.com/editor/)
 
-* [PDBB knowledge sharing](http://na2.collaboration.roche.com/team/201234c8/knoledge%20sharing%20by%20topics/Forms/AllItems.aspx)
+* [PDF to doc](https://pdf2doc.com/de/)
 
-* [PDB Biostatistics Google Currents Site](https://currents.google.com/u/0/communities/117282900628113220922)
+* [Powerpoint with RStudio](https://support.rstudio.com/hc/en-us/articles/360004672913-Rendering-PowerPoint-Presentations-with-RStudio)
 
-* [PHC and Early Development Oncology Biostatistics Group](https://pages.github.roche.com/ED-EB/PHC_ED_Onco_Biostat/index.html)
+* [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
 
-# Teaching and training resources
+# Roche
 
-## Biostatistics teaching
+## Tools
 
-The following two links list all teachings given by biostatisticians, for biostatisticians and other partner functions. If you teach a course please add it to these lists!
+* [Sitzungszimmer Informationen](http://cafm:18070/case/PSS/5472_SiZi/Forms/RoomListForm.aspx?2)
 
-Note that the list also contains links to recordings of many of the courses given.
+* [Concur](https://eu1.concursolutions.com/home.asp)
 
-* [List of teachings for biostatisticians](https://docs.google.com/spreadsheets/d/1URP21a1jIhu0QwYOqNrxCYis8fJGXHfLkE8FZssRGbs/edit#gid=0)
+* [CHRIS](https://oneportal.roche.com/irj/portal/simplyone/home)
 
-* [List of teachings for partner functions](https://docs.google.com/spreadsheets/d/1vRjttaugXX6Y02Z_ZkZSbeOhuhOAlFmVEiocoMNIb84/edit)
+* [Timesheet](http://plansourcetime.roche.com/)
 
-* [Introduction to group-sequential trials and rpact](https://pages.github.roche.com/adaptR/adaptR-tutorials/trainingMaterial.html)
+* [Besucheranmeldung](http://besucher.bas.roche.com/Forms/Logout.aspx)
 
-* [A toolbox for innovative confirmatory trial designs](https://pages.github.roche.com/adaptR/adaptR-tutorials/toolbox.html)
+* [Sportclub Roche](https://scroche.ch/sektionen1)
 
-* [Teaching slide deck](material/Rufibach_Biostatistics 1x1.pdf) maintained by [Kaspar Rufibach](mailto:kaspar.rufibach@roche.com). Feel free to mine it for your purposes, but the ask is to properly acknowledge if you use material from it.
+* [Basel travel services](https://sites.google.com/roche.com/basel-travel-services/home)
 
-## Other
+* [Basel Arealplan](https://sites.google.com/roche.com/realestatemanagement/services/site-map)
 
-* [Data Science University](https://sites.google.com/gene.com/dsu/home)
+## MCO 
 
-<!-- ============================================== -->
-
-# Internship materials
-
-## Basel
-
-[Tracking sheet](https://docs.google.com/spreadsheets/d/1hmUmV0HeLB1H3kXJxAS45csJD35NY0YA0PkGz-EdZy8/edit#gid=0)
-
-[Outputs](https://drive.google.com/drive/folders/0AAh1ksXaHPnlUk9PVA)
-
-# Methodology
-
-## Estimands
-
-* [Roche estimands webpage](http://go.roche.com/estimands)
-
-* [Estimand Q&A](http://go.roche.com/estimandsFAQ)
-
-* [X-industry oncology estimand working group](http://www.oncoestimand.org)
-
-<!-- ============================================== -->
-
-## Trial design
-
-* [Phase1b shiny app](https://shiny.roche.com/users/zhuj74/phase1b_v2/_w_7021d37c5e975db932de65c7bede979dc714566612159cdc/_w_21a02ce5344e27a24efe81779afafecc155033932851e93b/#cl-effect-9)
-
-* [adaptr webpage](http://go.roche.com/adaptr)
-
-* [CRM](http://go.roche.com/crm)
-
-* [Complex innovative designs (basket, umbrella, platform)](http://go.roche.com/complex_innovative_designs)
-
-* [Use IxRS or eCRF for stratification?](https://pd.roche.com/pd/post/announcement-of-guidance-document-primary-data-source-for-stratified-analyses/)
-
-## PTS
-
-* [PTS assessment on RocheNET](http://we.intranet.roche.com/sites/PPM/content/governance-and-processes/portfolio-processes/Pages/PTS-Assessment.aspx)
-
-## Survival analysis
-
-* [Event Tracking tutorial within adaptr](https://pages.github.roche.com/adaptR/adaptR-tutorials/eventTracking.html)
-
-* [Treatment switching toolkit](https://github.roche.com/Rpackages/TreatmentSwitchingToolkit)
-
-* [R for Health Technology Assessment](https://r-hta.org/) This webpage has a lot of resources for survival analysis, extrapolation, and modelling of treatment switching.
-
-* [Illness-death model applied to clinical trial](https://pages.github.roche.com/rufiback/gallium/) | [github repository](https://github.roche.com/rufiback/gallium)
-
-* [Simulate illness-death model](https://github.roche.com/rufiback/multistate)
-
-## Causal inference
-
-* [Propensity Score Methods: A Gentle Introduction](https://pages.github.roche.com/RWDSsme/PropensityScores/index.html)
-
-* [Propensity score methods for external controls](https://pages.github.roche.com/Propensity/PSbestPractices/index.html)
-
-## Missing data
-
-* [Global InfO Missing Data Initiative](https://sites.google.com/a/gene.com/missing-data/home)
-
-<!-- ============================================== -->
- 
-# Access to scientific publications
-
-* On [ISI web of knowledge](http://apps.webofknowledge.com) non-accessible publications can be ordered for internal use. 
-
-* [Roche publication center](http://pubcenter.roche.com/)
-
-# Covid-19
-
-* [Study management guidance (incl. biometrics guidance)](https://pd.roche.com/pd/post/covid-19-guidance-for-study-management/?utm_source=Jellyfish+Content+Nexus&utm_medium=email&utm_campaign=PD+Connect+-+Your+Digest+Aug+18)
-
-* [Global guidance and information sources](https://sites.google.com/roche.com/coronavirus-information/guidance-email)
-
-* [RPB task force gSite](https://sites.google.com/roche.com/rpb-portal/home?authuser=0)
-
-
-# Analytical platforms
-
-* [BEE](https://sites.google.com/a/roche.com/bee/)
-
-* [PHC Advanced Analytics Platform](https://sites.google.com/a/gene.com/phcaa/home)
-
-* [High Performance Clusters (HPC)](http://hpcportal.roche.com/)
-
-* [Frictionless Insights Data Science Tools](https://pages.github.roche.com/training/fm/)
-
-* [Agile-R / NEST](https://pages.github.roche.com/NEST/docs/hugo/NEST/agile-R/master/)
-
-<!-- ============================================== -->
-
-# Internal seminars 
-
-* [Up to 2019 (BOB, NABF, etc.)](http://na2.collaboration.roche.com/team/201234c6/Slides/Forms/ByFolders.aspx)
-
-* [Basel - Welwyn biostatistics workshop](https://glob.1sharepoint.roche.com/team/Roche-Stats-Workshop/_layouts/15/start.aspx#/Meetings/Forms/def.aspx?InitialTabId=Ribbon%2ERead&VisibilityContext=WSSTabPersistence)
-
-* [Welwyn Stats Forums](http://we3.collaboration.roche.com/team/201236b5/Documents/Forms/ByFolders.aspx?RootFolder=%2Fteam%2F201236b5%2FDocuments%2FStatistical%20Forums&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)
-
-* [NABF 2020 Onwards](https://drive.google.com/drive/u/0/folders/16qmyJJ8COgi5Tp3ra45E87K53SB5U7LN)
-
-
-<!-- ============================================== -->
-
-# Professional societies
-
-* [IBS Region Switzerland Austria (ROeS)](https://www.ibs-roes.org/)
-
-* [Basel biometric section](http://bbs.ceb-institute.org/)
-
-* [EFSPI](https://www.efspi.org/)
-
-* [PSI](https://www.psiweb.org/)
-
-
-
+* [MCO technical library](https://recpoint.roche.com/rc/0571/MCO%20Technical%20Library/Forms/AllItems.aspx?RootFolder=%2Frc%2F0571%2FMCO%20Technical%20Library&&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)
