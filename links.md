@@ -27,8 +27,6 @@ output:
 
 # Sport
 
-* [Kaspar running](https://rufi77.github.io/running/)
-
 * [BC Innertkirchen](https://www.bcinnertkirchen.ch/)
 
 * [Strava](https://www.strava.com/dashboard)
@@ -54,6 +52,14 @@ output:
 * [Powerpoint with RStudio](https://support.rstudio.com/hc/en-us/articles/360004672913-Rendering-PowerPoint-Presentations-with-RStudio)
 
 * [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
+
+# Meine Seiten
+
+* [netlify](https://numbersman77.netlify.app/)
+
+* [running](https://rufi77.github.io/running/)
+
+* [Links](https://rufi77.github.io/links/links.html)
 
 # Roche
 
