@@ -1,6 +1,6 @@
 # Link collection for biostatisticians within Roche
 
-* [Link collection](link_collection.html)
+* [Link collection](links.html)
 
 Author: 
 
