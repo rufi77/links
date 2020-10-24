@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2020-10-23"
+date: "2020-10-24"
 output: 
   html_document:
     keep_md: true
@@ -17,13 +17,15 @@ output:
 ---
 
 
-# Finance
+# Logins
 
 * [UBS login](https://ebanking-ch2.ubs.com/workbench/WorkbenchOpenAction.do?login&)
 
 * [WIR Bank](https://wwwsec.wir.ch/authen/login)
 
 * [REKA](https://idp.reka.ch/login/sls/idplogin)
+
+* [Assura](https://www.e-assura.ch/account/Login.aspx)
 
 # Sport
 
