@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2020-10-26"
+date: "2020-10-29"
 output: 
   html_document:
     keep_md: true
@@ -26,6 +26,8 @@ output:
 * [REKA](https://idp.reka.ch/login/sls/idplogin)
 
 * [Assura](https://www.e-assura.ch/account/Login.aspx)
+
+* [Taxme Bern (login mit SwissID)](https://www.belogin.directories.be.ch/cms/de/welcome.html)
 
 # Sport
 

@@ -27,6 +27,8 @@ output:
 
 * [Assura](https://www.e-assura.ch/account/Login.aspx)
 
+* [Taxme Bern (login mit SwissID)](https://www.belogin.directories.be.ch/cms/de/welcome.html)
+
 # Sport
 
 * [BC Innertkirchen](https://www.bcinnertkirchen.ch/)
