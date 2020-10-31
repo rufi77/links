@@ -41,6 +41,10 @@ output:
 
 * [Encyclopaedia](https://www.metal-archives.com/)
 
+# Shopping
+
+* [Fizzer Unterhosen](https://www.flizzer.ch/)
+
 # Job
 
 * [Clinical biostatistics at Roche](https://numbersman77.github.io/pharma/pharma.html)

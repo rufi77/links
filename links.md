@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2020-10-29"
+date: "2020-10-31"
 output: 
   html_document:
     keep_md: true
@@ -40,6 +40,10 @@ output:
 * [Metalgigs](https://metalgigs.ch/konzerte)
 
 * [Encyclopaedia](https://www.metal-archives.com/)
+
+# Shopping
+
+* [Fizzer Unterhosen](https://www.flizzer.ch/)
 
 # Job
 
