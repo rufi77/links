@@ -23,7 +23,7 @@ output:
 
 * [WIR Bank](https://wwwsec.wir.ch/authen/login)
 
-* [REKA](https://idp.reka.ch/login/sls/idplogin)
+* [REKA](https://reka.ch/de/rekageld/login-kundenportal)
 
 * [Assura](https://www.e-assura.ch/account/Login.aspx)
 
