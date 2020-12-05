@@ -53,13 +53,25 @@ output:
 
 # Tools
 
+## Allgemein
+
 * [PDF editor](https://pdfbob.com/editor/)
 
 * [PDF to doc](https://pdf2doc.com/de/)
 
+* [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
+
+## Google
+
+* [Suchoperatoren in Gmail](https://support.google.com/mail/answer/7190?hl=de)
+
+## R markdown
+
 * [Powerpoint with RStudio](https://support.rstudio.com/hc/en-us/articles/360004672913-Rendering-PowerPoint-Presentations-with-RStudio)
 
-* [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
+* [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+* [R markdown example 1: NeuroToolKit](NeuroToolKit Exploratory Analysis)
 
 # Meine Seiten
 
@@ -94,3 +106,17 @@ output:
 ## MCO 
 
 * [MCO technical library](https://recpoint.roche.com/rc/0571/MCO%20Technical%20Library/Forms/AllItems.aspx?RootFolder=%2Frc%2F0571%2FMCO%20Technical%20Library&&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)
+
+# Seminars
+
+* [Stanford Causal Inference Seminar](https://sites.google.com/view/ocis/)
+
+* [Uni Bern Kolloquium](https://www.imsv.unibe.ch/research/talks/colloquia/index_eng.html)
+
+* [Uni Bern Institutsseminar](https://www.imsv.unibe.ch/research/talks/institute_seminar/index_eng.html)
+
+* [ETH Zükost](https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html)
+
+* [ETH Forschungsseminar](https://math.ethz.ch/sfs/news-and-events/research-seminar.html)
+
+
