@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2020-12-05"
+date: "2020-12-22"
 output: 
   html_document:
     keep_md: true
@@ -23,6 +23,8 @@ output:
 
 * [WIR Bank](https://wwwsec.wir.ch/authen/login)
 
+* [Swissquote](https://trade.swissquote.ch/my.policy)
+
 * [REKA](https://reka.ch/de/rekageld/login-kundenportal)
 
 * [Assura](https://www.e-assura.ch/account/Login.aspx)
@@ -34,6 +36,8 @@ output:
 * [BC Innertkirchen](https://www.bcinnertkirchen.ch/)
 
 * [Strava](https://www.strava.com/dashboard)
+
+* [Skitourenrouten](https://map.geo.admin.ch/?topic=ech&lang=de&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo-karto.skitouren&layers_opacity=0.8&E=2653162.27&N=1171650.86&zoom=7)
 
 # Musik
 
@@ -50,6 +54,10 @@ output:
 * [Clinical biostatistics at Roche](https://numbersman77.github.io/pharma/pharma.html)
 
 * [Datamethods](https://discourse.datamethods.org/t/welcome-to-datamethods/8)
+
+## Berufsorganisationen
+
+* [FENStatS](https://www.fenstats.eu/acc_application)
 
 # Tools
 
@@ -72,6 +80,8 @@ output:
 * [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 * [R markdown example 1: NeuroToolKit](NeuroToolKit Exploratory Analysis)
+
+* [Harrell report](http://hbiostat.org/R/hreport/)
 
 # Meine Seiten
 
