@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2020-12-22"
+date: "2021-01-04"
 output: 
   html_document:
     keep_md: true
@@ -48,6 +48,10 @@ output:
 # Shopping
 
 * [Fizzer Unterhosen](https://www.flizzer.ch/)
+
+* [Nikin](https://nikin.ch/)
+
+* [Otaya](https://otaya.de/)
 
 # Job
 

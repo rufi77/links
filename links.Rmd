@@ -49,6 +49,10 @@ output:
 
 * [Fizzer Unterhosen](https://www.flizzer.ch/)
 
+* [Nikin](https://nikin.ch/)
+
+* [Otaya](https://otaya.de/)
+
 # Job
 
 * [Clinical biostatistics at Roche](https://numbersman77.github.io/pharma/pharma.html)
