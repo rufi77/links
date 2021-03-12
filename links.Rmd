@@ -31,6 +31,8 @@ output:
 
 * [Taxme Bern (login mit SwissID)](https://www.belogin.directories.be.ch/cms/de/welcome.html)
 
+* [Jungfrauregion TFA](https://jrtag.ch/index-de.php?frameset=9)
+
 # Sport
 
 * [BC Innertkirchen](https://www.bcinnertkirchen.ch/)
