@@ -73,11 +73,19 @@ output:
 
 * [PDF to doc](https://pdf2doc.com/de/)
 
+* [PDF to doc](https://convertio.co/de/pdf-docx/)
+
 * [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
+
+* [Swisstransfer](https://www.swisstransfer.com/de)
 
 ## Google
 
 * [Suchoperatoren in Gmail](https://support.google.com/mail/answer/7190?hl=de)
+
+## Statistics
+
+* [Harrell's glossary of statistics terms](http://hbiostat.org/doc/glossary.pdf)
 
 ## R markdown
 
@@ -107,7 +115,7 @@ output:
 
 * [CHRIS](https://oneportal.roche.com/irj/portal/simplyone/home)
 
-* [Timesheet](http://plansourcetime.roche.com/)
+* [MyCo (time recording)](https://myco.roche.com/)
 
 * [Besucheranmeldung](http://besucher.bas.roche.com/Forms/Logout.aspx)
 
@@ -117,7 +125,7 @@ output:
 
 * [Basel Arealplan](https://sites.google.com/roche.com/realestatemanagement/services/site-map)
 
-* [Webex](https://roche.webex.com/webappng/sites/roche/dashboard?siteurl=roche&from_login=true)
+* [Zoom](https://sites.google.com/gene.com/collaborationtools/apps/more/zoom)
 
 ## MCO 
 
@@ -134,5 +142,9 @@ output:
 * [ETH Zükost](https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html)
 
 * [ETH Forschungsseminar](https://math.ethz.ch/sfs/news-and-events/research-seminar.html)
+
+# Academy
+
+* [Habilitationen und Berufungen](https://www.academics.ch/ratgeber/habilitation-und-berufungen)
 
 
