@@ -79,6 +79,8 @@ output:
 
 * [Swisstransfer](https://www.swisstransfer.com/de)
 
+* [QR code generator](https://www.qrcode-generator.ch/)
+
 ## Google
 
 * [Suchoperatoren in Gmail](https://support.google.com/mail/answer/7190?hl=de)

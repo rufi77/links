@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2021-05-05"
+date: "2021-05-15"
 output: 
   html_document:
     keep_md: true
@@ -78,6 +78,8 @@ output:
 * [Schweizer Landeskarten](https://map.geo.admin.ch/?topic=swisstopo)
 
 * [Swisstransfer](https://www.swisstransfer.com/de)
+
+* [QR code generator](https://www.qrcode-generator.ch/)
 
 ## Google
 
