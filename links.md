@@ -89,6 +89,8 @@ output:
 
 * [Harrell's glossary of statistics terms](http://hbiostat.org/doc/glossary.pdf)
 
+* [Datamethods forum](https://discourse.datamethods.org/)
+
 ## R markdown
 
 * [Powerpoint with RStudio](https://support.rstudio.com/hc/en-us/articles/360004672913-Rendering-PowerPoint-Presentations-with-RStudio)
@@ -128,6 +130,8 @@ output:
 * [Basel Arealplan](https://sites.google.com/roche.com/realestatemanagement/services/site-map)
 
 * [Zoom](https://sites.google.com/gene.com/collaborationtools/apps/more/zoom)
+
+* [Reduce time in meetings](https://sites.google.com/gene.com/experimenttemplate/home?authuser=0)
 
 ## MCO 
 
