@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2021-05-15"
+date: "2021-06-20"
 output: 
   html_document:
     keep_md: true
@@ -55,6 +55,10 @@ output:
 
 * [Otaya](https://otaya.de/)
 
+# Gesundheit
+
+* [Smarter Medicine](https://www.smartermedicine.ch/de/datensammlung/detail/empfehlung/patient/253.html)
+
 # Job
 
 * [Clinical biostatistics at Roche](https://numbersman77.github.io/pharma/pharma.html)
@@ -106,6 +110,8 @@ output:
 * [netlify](https://numbersman77.netlify.app/)
 
 * [running](https://rufi77.github.io/running/)
+
+* [Introversion](https://rufi77.github.io/intro/introversion.html)
 
 * [Links](https://rufi77.github.io/links/links.html)
 
