@@ -109,7 +109,7 @@ output:
 
 * [netlify](https://numbersman77.netlify.app/)
 
-* [running](https://rufi77.github.io/running/)
+* [Sport](https://rufi77.github.io/running/docs/)
 
 * [Introversion](https://rufi77.github.io/intro/introversion.html)
 

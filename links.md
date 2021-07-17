@@ -1,7 +1,7 @@
 ---
 title : "Link collection"
 author: "KR"
-date: "2021-06-20"
+date: "2021-07-17"
 output: 
   html_document:
     keep_md: true
@@ -109,7 +109,7 @@ output:
 
 * [netlify](https://numbersman77.netlify.app/)
 
-* [running](https://rufi77.github.io/running/)
+* [Sport](https://rufi77.github.io/running/docs/)
 
 * [Introversion](https://rufi77.github.io/intro/introversion.html)
 
